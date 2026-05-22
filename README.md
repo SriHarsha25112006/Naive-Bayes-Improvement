@@ -62,7 +62,7 @@ Because of the automatic fallback mechanism (`optimize_alpha=True`), **IC-NB str
 | credit-g | 1000 | 7 | 0.7000 | 0.7000 | - | inf (GNB Fallback) |
 | sick | 2751 | 6 | 0.9474 | 0.9474 | - | inf (GNB Fallback) |
 
-> *(Note: The benchmark code used to generate this table is available in `benchmark_20_datasets.py`)*
+> *(Note: The benchmark code used to generate this table is available in `benchmark.py`)*
 
 ---
 
