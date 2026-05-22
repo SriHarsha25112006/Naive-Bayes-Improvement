@@ -1,0 +1,4 @@
+from .inverse_correlation_nb import InverseCorrelationNB
+
+__version__ = "1.0.0"
+__all__ = ["InverseCorrelationNB"]
