@@ -66,7 +66,15 @@ Because of the automatic fallback mechanism (`optimize_alpha=True`), **IC-NB str
 
 ---
 
-## 💻 Installation and Usage
+## 💻 Installation
+
+You can install this library directly from GitHub using pip:
+
+```bash
+pip install git+https://github.com/SriHarsha25112006/Naive-Bayes-Improvement.git
+```
+
+## 🛠️ Usage
 
 Drop the `icnb` package into your project or install it. Use it exactly like you would a standard `scikit-learn` estimator:
 
